@@ -1,0 +1,10 @@
+.loginButton {
+    background-color: rgb(9, 182, 9);
+    color: white;
+    height: 40%;
+    width: 100%;
+}
+
+.error-underline:before {
+    border-bottom-color: red !important;
+}
